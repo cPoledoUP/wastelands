@@ -11,7 +11,7 @@
 	- $f(x) = c$
 	- any input $x$ will yield the same output $c$
 	- technically a linear function with zero slope
-	- ![](MATH%2010/_attachments/Pasted%20image%2020240425152557.png)
+	- ![](_attachments/Pasted%20image%2020240425152557.png)
 2. **Linear Function**
 	- $f(x) = ax + b$
 	- $a$ represents the **slope** (sometimes represented with $m$)
