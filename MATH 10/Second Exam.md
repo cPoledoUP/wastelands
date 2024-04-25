@@ -11,19 +11,19 @@
 	- $f(x) = c$
 	- any input $x$ will yield the same output $c$
 	- technically a linear function with zero slope
-	- ![[Pasted image 20240425152557.png]]
+	- ![](_attachments/Pasted%20image%2020240425152557.png)
 2. **Linear Function**
 	- $f(x) = ax + b$
 	- $a$ represents the **slope** (sometimes represented with $m$)
 	- $b$ represents the **y-intercept**
 	- technically a polynomial function of degree 1
-	- ![[Pasted image 20240425152902.png]]
+	- ![](_attachments/Pasted%20image%2020240425152902.png)
 3. **Quadratic Function**
 	- $f(x) = ax^2 + bx + c$
 	- $a \neq 0$
 	- technically a polynomial function of degree 2
-	- ![[Pasted image 20240425153131.png]]
-	- ![[Pasted image 20240425153141.png]]
+	- ![](_attachments/Pasted%20image%2020240425153131.png)
+	- ![](_attachments/Pasted%20image%2020240425153141.png)
 4. **Polynomial Function**
 	- $f(x) = a_nx^n + a_{n-1}x^{n-1} + ... + a_1x + a_0$
 	- degree $n$
@@ -45,7 +45,7 @@
 		- $b > 1$
 	- **exponential decay**
 		- b < 1
-	- ![[Pasted image 20240425154434.png]]
+	- ![](_attachments/Pasted%20image%2020240425154434.png)
 8. **Logarithmic Function**
 	- $f(x) = \log_bx$
 	- $b > 0$ and $b \neq 1$
@@ -53,7 +53,7 @@
 	- **natural logarithmic function**
 		- if $b = e = 2.7182...$
 		- $f(x) = \log_e x = \ln x$
-	- ![[Pasted image 20240425155133.png]]
+	- ![](_attachments/Pasted%20image%2020240425155133.png)
 9. **Sine Function**
 	- $f(x) = a\sin(bx$)
 	- $a \neq 0$ and $b \neq 0$
