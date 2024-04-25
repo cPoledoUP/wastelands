@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bf8995bc6333de4b",
@@ -147,6 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "764ada280681697d",
-  "lastOpenFiles": []
+  "active": "9a17b73bab225038",
+  "lastOpenFiles": [
+    "MATH 10/attachments/Pasted image 20240425152557.png",
+    "MATH 10/Second Exam.md"
+  ]
 }
