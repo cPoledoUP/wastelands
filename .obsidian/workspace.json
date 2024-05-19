@@ -6,7 +6,6 @@
       {
         "id": "46cc5dc9e0d9832e",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "9a17b73bab225038",
@@ -30,31 +29,10 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "3b2c1232bc655942"
+            }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "e6521f51d7627f17",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "2ca5adc1213d10bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMSC 134/Third Exam.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "3b2c1232bc655942"
-          }
-        ]
       }
     ],
     "direction": "vertical"

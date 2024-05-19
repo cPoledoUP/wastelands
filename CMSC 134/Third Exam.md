@@ -380,3 +380,121 @@ According to National Institute of Standards and Technology (NITS)
 		- migration
 		- compliance and security
 		- subscription fee
+# Securing and Managing Storage Infrastructure
+## Storage Security
+- process of applying information security principles and practices within the domain of storage networking technologies
+- beings with building **Information Security Framework**
+	- **Security**
+		- **Networking**
+		- **Storage**
+		- **Information**
+## Information Security Framework
+- systematic way of defining security requirements
+- should incorporate
+	- **anticipated security attacks**
+		- actions that compromise the security of information
+	- **security measures**
+		- control designed to protect from these security attacks
+- built to achieve security goals
+	- **confidentiality**
+	- **integrity**
+	- **availability**
+	- **accountability**
+## Assets
+- **information** - the most important asset for any organization
+- other assets include **hardware**, **software**, **network infrastructure**
+- protecting asset is primary concern
+- security consideration
+	- must provide easy access to assets for authorized users
+	- make it difficult for potential attackers to access and compromise assets
+		- should cost attackers money, effort, time
+## Threats
+- potential attacks that can be carried out on an IT infrastructure
+- **passive attacks**
+	- attempt to gain unauthorized access into the system
+	- attempt to threat the **confidentiality** of information
+- **active attacks**
+	- attempt data modification, denial of service, repudiation attacks
+	- attempt to threat data **integrity**, **availability**, and **accountability**
+## Vulnerabilities
+- paths that provide access to information are vulnerable to potential attacks
+- manage vulnerabilities to minimize the attack surface and maximize the work factor
+## Security Controls
+- reduces the impact of vulnerabilities
+- **technical**
+	- antivirus
+	- firewalls
+	- intrusion detection system
+- **non-technical**
+	- admin policies
+	- physical controls
+- categorized as:
+	- **preventive**
+	- **corrective**
+	- **detective**
+## Storage Security Domains
+1. **Application Access**
+2. **Management Access**
+3. **Backup, Replication, and Archive**
+## Securing Application Access Domain
+- protect data and access to data
+- common threats
+	- **spoofing user or host identity**
+	- **elevation of privileges**
+	- **tampering with data in-flight and at rest**
+	- **network snooping**
+	- **denial of service**
+	- **media theft**
+- available controls
+	- **strong user and host authentication and authorization**
+	- **access control to storage objects**
+	- **data encryption**
+	- **storage network encryption**
+- examples
+	- **multi-factor authentication**
+	- **RBAC, DH-CHAP**
+	- **Zoning, LUN masking**
+	- **Storage encryption**
+	- **IP-Sec, FC security protocol**
+	- **antivirus**
+	- **controlling physical access to data center**
+## Securing Management Access Domain
+- protect administrative access and management infrastructure
+- common threats
+	- **spoofing admin identity**
+	- **elevating admin privileges**
+	- **network snooping and DoS**
+- available controls
+	- **authentication, authorization, and management access control**
+	- **private management network**
+	- **disable unnecessary network services**
+## Securing Backup, Replication, and Archive Domain
+- protecting backup, replication, and archive infrastructure
+- common threats
+	- **spoofing DR site identity**
+	- **tampering with data in-flight and at rest**
+	- **network snooping**
+- available controls
+	- **access control - primary to secondary storage**
+	- **backup encryption**
+## Security in Virtualized and Cloud Environments
+- additional threats due to multi tenancy and lack of control over the cloud resources
+- virtualization-specific security concerns are common for all cloud models
+- in public clouds, there are additional security concerns, which demand specific countermeasures
+	- clients have less control to enforce security measures
+	- difficult for cloud service providers (CSP) to meet the security needs of all clients
+## Security Concerns
+1. **Multitenancy**
+	- multiple independent tenants to be serviced using the same set of storage resources
+		- co-location of multiple VMs in a single server and sharing the same resources increase the attack surface
+2. **Velocity of attack**
+	- existing security threat in the cloud spreads more rapidly and has larger impact than that in traditional data center
+## Security Measures
+1. **Securing compute**
+	- securing physical server, VMs, and hypervisor
+2. **Securing network**
+	- virtual firewall
+		- packet filtering and monitoring of the VM-to-VM traffic
+3. **Securing storage**
+	- access control and data encryption
+	- segregate VM traffic from management traffic
