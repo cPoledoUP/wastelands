@@ -6,6 +6,7 @@
       {
         "id": "46cc5dc9e0d9832e",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "9a17b73bab225038",
@@ -13,11 +14,45 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 10/Second Exam.md",
+                "file": "CMSC 134/Second Exam.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "2abfd82841c24b41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMSC 134/Third Exam.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "3b2c1232bc655942"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "e6521f51d7627f17",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "2ca5adc1213d10bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMSC 134/Third Exam.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "3b2c1232bc655942"
           }
         ]
       }
@@ -69,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bf8995bc6333de4b",
@@ -85,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 10/Second Exam.md",
+                "file": "CMSC 134/Third Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH 10/Second Exam.md",
+                "file": "CMSC 134/Third Exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 10/Second Exam.md"
+                "file": "CMSC 134/Third Exam.md"
               }
             }
           }
@@ -146,9 +182,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "764ada280681697d",
+  "active": "2abfd82841c24b41",
   "lastOpenFiles": [
-    "MATH 10/_attachments/Pasted image 20240425152557.png",
-    "MATH 10/Second Exam.md"
+    "Untitled.md",
+    "CMSC 134/Third Exam.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "CMSC 134/Second Exam.md",
+    "MATH 10/Second Exam.md",
+    "MATH 10/_attachments/Pasted image 20240425152557.png"
   ]
 }
