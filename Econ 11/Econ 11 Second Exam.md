@@ -258,3 +258,58 @@
 - the quantity of money determines nominal GDP
 - the price level P is the ratio of nominal GDP to real GDP
 - **quantity theory** implies that the price level is proportional to the money supply
+# Money and Inflation
+### A government can finance its spending in four ways
+1. Through taxes
+2. Borrow from the public by selling government bonds
+3. Borrow from international banks
+4. Print money
+### Seigniorage
+- revenue raised through the printing of money
+- printing money to raise revenue is like imposing an **inflation tax** (tax on holding money)
+## Interest Rates
+### Nominal Interest Rate
+- rate of interest before adjustment for inflation
+- rate typically quoted by financial institutions
+### Real Interest Rate
+- approximated by taking the nominal interest rate and subtracting inflation
+- represents the true cost of borrowing and the true yield on an investment, in terms of purchasing power
+- $r = i - \pi$
+	- r = real interest rate
+	- i = nominal interest rate
+	- $\pi$ = rate of inflation
+## The Fisher Effect
+- describes the relationship between nominal interest rates, real interest rates, and inflation
+- $i = r + \pi^e$
+	- i = nominal interest rate
+	- r = ex ante real interest rate
+	- $\pi^e$ = expectation of future inflation
+### Irving Fisher
+- first economist to distinguish clearly between real and nominal interest rates
+## Ex ante real interest rate
+- real interest rate the borrower and lender expect when the loan is made
+## Ex post real interest rate
+- $r = i - \pi$
+	- r = ex post real interest rate
+	- i = nominal interest rate
+	- $\pi$ = actual future inflation
+## The Cost of Holding Money
+- the money you hold in your wallet does not earn interest
+- nominal interest rate is the opportunity cost of holding money
+- **Future Money and Current Prices**
+	- $M/P = L(r + \pi^e, Y)$
+	- states that the level of real money balances depends on the expected rate of inflation
+## The Linkages Among Money, Prices, and Interest Rate
+![](_attachments/Pasted%20image%2020240530201702.png)
+- the conclusion of the analysis is that the price level depends on the weighted average of the current money supply and the money supply expected to prevail in the future
+## The Costs of Expected Inflation
+1. the distortion of the inflation tax on the amount of money people hold **(shoeleather cost)**
+2. high inflation induces many firms to change their posted prices more often **(menu cost)**
+3. firms facing menu costs change prices infrequently; therefore the higher the rate of inflation, the greater the variability in relative prices **(cost of relative price variability)**
+4. tax distortion
+5. the inconvenience of making inflation corrections
+## The Costs of Unexpected Inflation
+- if **inflation turns out to be higher than expected, the debtor wins and the creditor loses** because the debtor repays the loan with less valuable dollars, vice-versa
+## Hyperinflation
+- situation where price increases are so out of control
+- typically begin when governments finance large budget deficits by printing money
