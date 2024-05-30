@@ -178,3 +178,83 @@
 - inflation is equivalent to a decline in the purchasing power of peso
 - computed by getting the reciprocal of the CPI
 - purchasing power of the peso = 1 / CPI x 100
+# Money, Prices and Inflation
+## Money
+- stock of assets that can be readily used to make transactions
+- anything that is generally accepted as payment for goods and services and repayment of debt
+## Purpose of Money
+1. **Store of value**: a way to transfer purchasing power **from the present to the future** (i.e., people hold money because they can trade for goods and services in the future)
+2. **Unit of account**: money provides the terms in which **prices are quoted and debts are recorded**
+3. **Medium of exchange**: used to **buy goods and services**
+4. **Standard of deferred payment**: money is the accepted way **to settle a debt**; a unit which debts are denominated
+## Demand for Money
+1. **Transactions Demand for Money**: refers to the need of money to facilitate day-to-day transactions; related to **medium of exchange** function.
+2. **Precautionary Demand for Money**: the need meet unexpected or extraordinary contingencies with a buffer stock of cash; related to **store of value** function
+3. **Speculative or Portfolio Allocation Motive**: aka the **asset demand for money**
+## Types of Money
+- **Commodity money**
+	- use of commodity with some intrinsic value (e.g., gold)
+- **Fiat money**
+	- money that has no intrinsic value because it is established as money by government decree or fiat
+## How the quantity of money is controlled
+- The **BSP** makes use of monetary instruments to control the supply of money
+1. The amounts that banks are required to keep on deposit at a **Federal Reserve Bank (BSP)**, as determined by reserve ratios
+	- BSP **lowers** the reserve requirement if it wants to engage in an **expansionary** monetary policy
+2. Imposition of a rediscount rate by the BSP
+	- when there is an **increase** in the rediscount rate, banks are **discouraged** from borrowing funds from the BSP
+3. Through the purchase and sale of government bonds
+	- when the BSP wants to **increase** the money supply, it uses some of its money to **buy government bonds** from the public
+	- conversely, it **sells government bonds** to the public if it wants to **decrease** the money supply
+4. The government controls the supply of money
+	- legal restrictions give the government a monopoly on the printing of money
+	- **money supply**: the quantity of money available
+	- **monetary supply**: the control over the money supply
+## How the quantity of money is measured
+- **M1 (Narrow Money)**
+	- consists of items  used as medium of exchange such as currency or coins in circulation
+- **M2 (Broad Money)**
+	- consists of M1 plus savings, small time deposits, and money market mutual funds
+- **M3 (Domestic Liquidity)**
+	- consists of M2 and "Securities other than Shares" or all types of money market borrowings by banks like promissory notes, etc.
+- **M4**
+	- consists of M3 and transferable and other deposits in foreign currency
+## Transaction and the Quantity Equation
+- the quantity of money in the economy is closely related to the number of currency exchanged in transactions
+- M x V = P x T
+	- T = number of times in a year that goods or services are exchanged for money **(transaction)**
+	- P = **price** of a typical transaction; the number of pesos exchanged
+	- PT = number of pesos exchanged in a year
+	- M = the quantity of **money**
+	- V = the transactions **velocity** of money and measures the rate at which money circulates in the economy
+## From Transactions to Income
+- M x V = P x Y
+	- Y = real GDP
+	- P = GDP deflator
+	- PY = nominal GDP
+	- V = income velocity of money; it tells the number of times a currency bill enter someone's income in a given period of time
+## The Money Demand Function and the Quantity Equation
+### Real Money Balances (M/P)
+- quantity of money in terms of goods and services it can buy
+- measures the purchasing power of the stock of money
+### Money Demand Function
+- shows what determines the quantity of real money balances people wish to hold
+- (M/P) = kY
+	- P = price of a typical transaction
+	- M = quantity of money
+	- k = constant; tells how much money people want to hold in every peso of income
+- higher income leads to greater demand for real money balances
+- the relationship between V and k are inversely proportional
+	- V = 1/k
+	- i.e., when people want to hold a lot of money for each peso of income, money changes hands infrequently
+## The Assumption of Constant Velocity
+- a change in the quantity of money (M) must cause a proportionate change in nominal GDP (PY)
+- % change in M + % change in V = % change in P + % change in Y
+1. the percentage change in the quantity of money is **controlled by the central bank**
+2. we have assumed that velocity is **constant** (% change in V = 0)
+3. the percentage change in the price level P is the **rate of inflation**
+4. the percentage change in output Y depends on the **growth in the factors of production and on technological progress**
+- the **quantity theory of money** states that the central bank which controls the money supply has ultimate control over the rate of inflation
+## Money, Prices and Inflation
+- the quantity of money determines nominal GDP
+- the price level P is the ratio of nominal GDP to real GDP
+- **quantity theory** implies that the price level is proportional to the money supply
