@@ -369,5 +369,47 @@
 	- the opportunity cost of bananas in terms of cars is the number of cars that could be produced with the same resources as a given volume of bananas
 - **Comparative Advantage**
 	- when opportunity cost of producing that good is lower in that country than other countries
-- 
 ![](_attachments/Pasted%20image%2020240530212326.png)
+## A One-Factor Economy
+- the constant labor is modeled with the specification of **unit labor requirements**
+	- number of hours of labor required to produce one unit of output
+	- $a_L$
+### Production Possibilities
+- the **Production Possibility Frontier (PPF)** shows the maximum amount of a good that can be produced for any given amount of another
+- example equation: $a_{LC}Q_C + a_{LW}Q_W = L$
+### Relative Prices and Supply
+- the particular amounts of each good produced are **determined by prices**
+- under perfect competition, the non-negative profit condition implies:
+	- if $P_W / a_{LW} < w_W$, then there is no production of $Q_W$
+	- if $P_W / a_{LW} = w_W$, then there is production of $Q_W$
+### Absolute Advantage
+- country absolute advantage if it has a lower unit labor requirement than the foreign country in this good
+- assume that $a_{LC} < a^*_{LC}$ and $a_{LW} < a^*_{LW}$
+	- home has absolute advantage in the production of both goods
+### Comparative Advantage
+- assume that $a_{LC} / a_{LW} < a^*_{LC} / a^*_{LW}$
+	- implies that the opportunity cost of blue cheese in terms of coco wine is lower in home than it is in foreign
+### Relative Wages
+- because of **technological differences**, trade in goods does not make the wages equal across countries
+- a country with **absolute advantage** in both goods will enjoy **a higher wage** after trade
+### The Gains from Trade
+- if countries specialize according to their comparative advantage, they all gain from this specialization and trade
+- two ways:
+	- trade can be likened to a **new way of producing goods and services**
+	- trade **enlarges the consumption possibility for each of the two countries**
+- in the absence of trade, the consumption possibility curve is the same as the production possibility curve
+## Misconceptions About Comparative Advantage
+- free trade is beneficial only if a country is strong enough to withstand foreign competition
+	- trade is based on comparative, not absolute advantage
+- foreign competition is unfair and hurts other countries when it is based on low wages
+	- even lower wages can still benefit from trade
+- trade makes workers worse off in countries with lower wages
+	- in the absence of trade, these workers would be worse off
+	- denying the opportunity to export is to condemn poor people to continue to be poor
+### Adding Transport Costs and Nontraded Goods
+- **three** main reasons why specialization in the real international economy is not extreme
+	- existence of more than one factor of production
+	- countries sometimes protect industries form foreign competition
+	- it is costly to transport goods and services
+- the result of introducing transport costs makes some goods **non-traded**. in some cases, transportation is virtually impossible
+	- haircuts, auto repair
