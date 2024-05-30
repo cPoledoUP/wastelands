@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae6f1527ed38baea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Econ 11/Econ 11 Second Exam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMSC 134/Third Exam.md",
+                "file": "Econ 11/Econ 11 Second Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMSC 134/Third Exam.md",
+                "file": "Econ 11/Econ 11 Second Exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMSC 134/Third Exam.md"
+                "file": "Econ 11/Econ 11 Second Exam.md"
               }
             }
           }
@@ -160,9 +172,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2abfd82841c24b41",
+  "active": "ae6f1527ed38baea",
   "lastOpenFiles": [
+    "Econ 11/_attachments/Pasted image 20240530121657.png",
+    "Econ 11/_attachments/Pasted image 20240530104459.png",
+    "Econ 11/_attachments",
     "Untitled.md",
+    "Econ 11",
+    "Econ 11/Econ 11 Second Exam.md",
+    "_attachments/Pasted image 20240530104414.png",
+    "_attachments",
     "CMSC 134/Third Exam.md",
     "Untitled 2.md",
     "Untitled 1.md",
