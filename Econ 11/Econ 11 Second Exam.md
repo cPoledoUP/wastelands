@@ -280,15 +280,16 @@
 	- $\pi$ = rate of inflation
 ## The Fisher Effect
 - describes the relationship between nominal interest rates, real interest rates, and inflation
-- $i = r + \pi^e$
-	- i = nominal interest rate
-	- r = ex ante real interest rate
-	- $\pi^e$ = expectation of future inflation
 ### Irving Fisher
 - first economist to distinguish clearly between real and nominal interest rates
 ## Ex ante real interest rate
 - real interest rate the borrower and lender expect when the loan is made
+- $i = r + \pi^e$
+	- i = nominal interest rate
+	- r = ex ante real interest rate
+	- $\pi^e$ = expectation of future inflation
 ## Ex post real interest rate
+- real interest rate actually realized
 - $r = i - \pi$
 	- r = ex post real interest rate
 	- i = nominal interest rate
@@ -313,3 +314,48 @@
 ## Hyperinflation
 - situation where price increases are so out of control
 - typically begin when governments finance large budget deficits by printing money
+# Introduction to Foreign Currency Exchange
+## Exchange Rate
+- price of a nation's currency in terms of another currency
+- for price comparison
+- Philippine banks trade ForEx using **Philippine Dealing and Exchange Corp. (PDEx)**
+## How is the exchange rate determined?
+- **floating exchange rates**
+	- used by the Philippines
+	- value of the dollar in terms of peso is determined by the interbank foreign exchange market
+- **fixed exchange rate system**
+	- par value rate is set between the domestic and foreign currency by the central bank
+## Why BSP adopted a floating rate system
+- occasional, large fluctuations are more costly and disruptive than more frequent but more gradual changes
+- consistent with the **national strategy of achieving international competitiveness through efficiency**
+	- leaving rate determination to market forces of supply and demand
+## Advantages of a Strong Peso
+- helps **dampen inflationary pressures**
+- translates to **lower debt servicing**
+- enable BSP to **build up international reserves**
+- allows prepayment of foreign exchange obligations
+## Disadvantages of a Strong Peso
+- **lower value** of OFW remittances
+- **higher price** of export products
+- tourism sector
+- lower return for foreign investors
+![](_attachments/Pasted%20image%2020240530210128.png)
+## Nominal Exchange Rate
+- relative price of the currency of two countries
+- usually called **exchange rate**
+## Real Exchange Rate
+- relative price of goods of two countries
+- tells us the **rate at which we can trade the goods of one country for the goods of another**
+- Real Exchange Rate = (Nominal Exchange Rate x Ratio of Price Level) / Price of Foreign Good
+## Purchasing Power Parity (PPP)
+- uses the long-term equilibrium exchange rate of two currencies to equalize their purchasing power
+- based on the **law of one price**: in an ideally efficient market, identical goods should have only one price
+- amount of certain basket of basic goods which can be bought in a given country with the money it produces
+- $\varepsilon = e \times (P/P*)$
+	- $\varepsilon$ = real exchange rate
+	- e = nominal exchange rate (1 unit of foreign currency/domestic currency)
+	- P = Price level in the domestic market
+	- P* = Price level in the foreign market
+	- if the real exchange rate is low, foreign goods are relatively expensive and domestic goods are relatively cheap, vice-versa
+- **The Economist** published the **Big Mac Index** as an informal way to measure PPP between two currencies and **provides a test of the extent to which market exchange rates result in goods costing the same in different countries**
+- 
