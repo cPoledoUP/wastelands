@@ -358,4 +358,16 @@
 	- P* = Price level in the foreign market
 	- if the real exchange rate is low, foreign goods are relatively expensive and domestic goods are relatively cheap, vice-versa
 - **The Economist** published the **Big Mac Index** as an informal way to measure PPP between two currencies and **provides a test of the extent to which market exchange rates result in goods costing the same in different countries**
+# Introduction to International Trade
+## Introduction
+- countries engage in trade for **two** basic reasons
+	- they are different from each other in terms of **climate, land, capital, labor, and technology**
+	- they try to achieve **scale economies** in production
+- the **Ricardian model** is based on technological differences across countries
+## The Concept of Comparative Advantage
+- **Opportunity Cost**
+	- the opportunity cost of bananas in terms of cars is the number of cars that could be produced with the same resources as a given volume of bananas
+- **Comparative Advantage**
+	- when opportunity cost of producing that good is lower in that country than other countries
 - 
+![](_attachments/Pasted%20image%2020240530212326.png)
