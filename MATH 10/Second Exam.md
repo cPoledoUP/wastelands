@@ -11,30 +11,30 @@
 	- $f(x) = c$
 	- any input $x$ will yield the same output $c$
 	- technically a linear function with zero slope
-	- ![](_attachments/Pasted%20image%2020240425152557.png)
-2. **Linear Function**
+	![](_attachments/Pasted%20image%2020240425152557.png)
+1. **Linear Function**
 	- $f(x) = ax + b$
 	- $a$ represents the **slope** (sometimes represented with $m$)
 	- $b$ represents the **y-intercept**
 	- technically a polynomial function of degree 1
 	- ![](_attachments/Pasted%20image%2020240425152902.png)
-3. **Quadratic Function**
+2. **Quadratic Function**
 	- $f(x) = ax^2 + bx + c$
 	- $a \neq 0$
 	- technically a polynomial function of degree 2
 	- ![](_attachments/Pasted%20image%2020240425153131.png)
 	- ![](_attachments/Pasted%20image%2020240425153141.png)
-4. **Polynomial Function**
+3. **Polynomial Function**
 	- $f(x) = a_nx^n + a_{n-1}x^{n-1} + ... + a_1x + a_0$
 	- degree $n$
-5. **Rational Function**
+4. **Rational Function**
 	- $f(x) = \frac{P(x)}{Q(x)}$
 	- $P(x)$ and $Q(x)$ are polynomial functions
 	- $Q(x) \neq 0$
 	- **asymptotes** are present in the graph
-6. **Radical Function**
+5. **Radical Function**
 	- involves radical expression
-7. **Exponential Function**
+6. **Exponential Function**
 	- $f(x) = b^x$
 	- $b >0$ and $b \neq 1$
 	- base $b$
@@ -46,7 +46,7 @@
 	- **exponential decay**
 		- b < 1
 	- ![](_attachments/Pasted%20image%2020240425154434.png)
-8. **Logarithmic Function**
+7. **Logarithmic Function**
 	- $f(x) = \log_bx$
 	- $b > 0$ and $b \neq 1$
 	- base $b$
@@ -54,11 +54,11 @@
 		- if $b = e = 2.7182...$
 		- $f(x) = \log_e x = \ln x$
 	- ![](_attachments/Pasted%20image%2020240425155133.png)
-9. **Sine Function**
+8. **Sine Function**
 	- $f(x) = a\sin(bx$)
 	- $a \neq 0$ and $b \neq 0$
 	- graph shows a periodic wave with **amplitude** $a$ and **(angular) frequency** $b$
-10. **Cosine Function**
+9. **Cosine Function**
 	- $f(x) = a\cos(bx)$
 	- $a \neq 0$ and $b \neq 0$
 	- graph is similar to sine function
