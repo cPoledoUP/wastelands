@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 10/Second Exam.md",
+                "file": "Econ 11/Econ 11 Second Exam.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 10/Second Exam.md",
+                "file": "Econ 11/Econ 11 Second Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH 10/Second Exam.md",
+                "file": "Econ 11/Econ 11 Second Exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 10/Second Exam.md"
+                "file": "Econ 11/Econ 11 Second Exam.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "2ca1d2cdb053f31e",
   "lastOpenFiles": [
+    "MATH 10/Second Exam.md",
     "Econ 11/Econ 11 Second Exam.md",
     "Econ 11/_attachments/Pasted image 20240530212326.png",
     "Econ 11/_attachments/Pasted image 20240530210128.png",
@@ -165,7 +166,6 @@
     "CMSC 134/Third Exam.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "MATH 10/Second Exam.md",
     "MATH 10/_attachments/Pasted image 20240425152557.png"
   ]
 }

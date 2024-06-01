@@ -17,7 +17,7 @@
 	- GDP = Gross Domestic Product
 	- NPI = Net Primary Income
 ## Government and Foreign Agents
-![](_attachments/Pasted%20image%2020240530104459.png)
+- ![](_attachments/Pasted%20image%2020240530104459.png)
 1. **Government purchases of goods and services**
 	- transactions for which government makes payments to firms
 2. **Government payments for factor services**
