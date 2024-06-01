@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "dbec17ed8604aff1",
+        "id": "bfcfbedf4fd0363b",
         "type": "tabs",
         "children": [
           {
-            "id": "2ca1d2cdb053f31e",
+            "id": "b3aeebb62b1a87aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Econ 11/Econ 11 Second Exam.md",
+                "file": "MATH 10/Second Exam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af8e2229e74ed587",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH 10/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bf8995bc6333de4b",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Econ 11/Econ 11 Second Exam.md",
+                "file": "MATH 10/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Econ 11/Econ 11 Second Exam.md",
+                "file": "MATH 10/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Econ 11/Econ 11 Second Exam.md"
+                "file": "MATH 10/Untitled.md"
               }
             }
           }
@@ -147,16 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ca1d2cdb053f31e",
+  "active": "764ada280681697d",
   "lastOpenFiles": [
     "MATH 10/Second Exam.md",
+    "MATH 10/Untitled.md",
     "Econ 11/Econ 11 Second Exam.md",
     "Econ 11/_attachments/Pasted image 20240530212326.png",
     "Econ 11/_attachments/Pasted image 20240530210128.png",
     "Econ 11/_attachments/Pasted image 20240530201702.png",
     "CMSC 134/Second Exam.md",
     "Econ 11/_attachments/Pasted image 20240530135917.png",
-    "Untitled.md",
     "Econ 11/_attachments/Pasted image 20240530121657.png",
     "Econ 11/_attachments/Pasted image 20240530104459.png",
     "Econ 11/_attachments",
